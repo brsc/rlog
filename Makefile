@@ -9,7 +9,7 @@
 # ===== Configuration =====
 
 # Import path prefix for all packages (i.e. where the code lives relative to $GO_PATH/src)
-PROJECT_PATH = "github.com/rightscale/rlog"
+PROJECT_PATH = "github.com/brsc/rlog"
 
 # List of all packages within PROJECT_PATH
 PROJECT_PACKAGES = "." "common" "file" "stdout" "syslog"
